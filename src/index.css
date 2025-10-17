@@ -688,8 +688,6 @@ button:not(:disabled),
   text-transform: uppercase !important;
 }
 
-/* rtl:begin:remove */
-
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
